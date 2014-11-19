@@ -1,2 +1,2 @@
 tsdiscon
-..\Release\PCSleeper.exe -s
+PCSleeper.exe -s
